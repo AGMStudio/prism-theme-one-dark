@@ -1,0 +1,23 @@
+{
+  "name": "prism-theme-one-dark",
+  "description": "Theme based on Atom Dark One to Prism JS",
+  "main": "index.js",
+  "authors": [
+    "adrigm"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "Prism",
+    "theme",
+    "onedark",
+    "one-dark"
+  ],
+  "homepage": "https://github.com/AGMStudio/prism-theme-one-dark",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
