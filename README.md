@@ -1,2 +1,3 @@
 # prism-theme-one-dark
-Theme Atom One Dark for Prism JS
+
+Theme based on Atom Dark One to Prism JS
