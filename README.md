@@ -1,6 +1,6 @@
 # Prism Theme One Dark
 
-Theme based on Atom Dark One for Prism JS.
+Theme based on Atom One Dark for Prism JS.
 
 ## Install
 
